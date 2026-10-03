@@ -1768,9 +1768,9 @@ The assignment therefore provides a practical understanding of how search algori
 
 # Author
 
-**Divyamshu Jaladi**
+**Ruchira**
 
-**B.Tech – Computer Science Engineering**
+**M.Tech**
 
 ---
 
